@@ -1,0 +1,28 @@
+{
+  "name": "trashtalk3000",
+  "version": "1.0.0",
+  "description": "App for keeping track of your own tennis scores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidxcheng/trashtalk3000.git"
+  },
+  "author": "David Cheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidxcheng/trashtalk3000/issues"
+  },
+  "homepage": "https://github.com/davidxcheng/trashtalk3000#readme",
+  "dependencies": {
+    "jade": "^1.11.0",
+    "koa": "^1.1.1",
+    "koa-route": "^2.4.2",
+    "koa-static": "^1.5.1"
+  },
+  "devDependencies": {
+    "stylus": "^0.52.4"
+  }
+}
